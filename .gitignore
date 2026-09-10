@@ -1,0 +1,18 @@
+# Python bytecode (file cache otomatis)
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Folder lingkungan virtual (jika ada)
+venv/
+env/
+.venv/
+
+# Folder konfigurasi editor
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
